@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cryptotokebab/static/css/main.7c8c1f4f.css",
+    "main.js": "/cryptotokebab/static/js/main.5026d482.js",
+    "index.html": "/cryptotokebab/index.html",
+    "main.7c8c1f4f.css.map": "/cryptotokebab/static/css/main.7c8c1f4f.css.map",
+    "main.5026d482.js.map": "/cryptotokebab/static/js/main.5026d482.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c8c1f4f.css",
+    "static/js/main.5026d482.js"
+  ]
+}
